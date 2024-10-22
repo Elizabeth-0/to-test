@@ -28,11 +28,11 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_waves user_project(
+  tt_um_waves (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
-      .VPWR(VPWR), 
+      .VPWR(VPWR),
       .VGND(VGND),
 `endif
 
