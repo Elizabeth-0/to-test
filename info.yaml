@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
   title:        "to_test"      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  author:       "Elizabeth"      # Your name
+  discord:      "elizabethesp"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "Code"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25MHz       # Clock frequency in Hz (or 0 if not applicable)
 
